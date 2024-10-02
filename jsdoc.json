@@ -1,0 +1,19 @@
+{
+  "source": {
+    "include": ["Routes"],  
+    "exclude": ["node_modules"],
+    "includePattern": ".+\\.js(doc|x)?$"
+  },
+  "opts": {
+    "destination": "./docs", 
+    "recurse": true,         
+    "template": "node_modules/jsdoc/templates/default"  
+  },
+  "plugins": [
+    "plugins/markdown"
+  ],
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false
+  }
+}

@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "userName": "wilson_tech",
+      "content": "Excited to announce my new MERN stack project is live!",
+      "likes": 120,
+      "comments": 15,
+      "timestamp": "2024-09-10T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "userName": "helena_coder",
+      "content": "Just deployed my first app, feeling proud!",
+      "likes": 200,
+      "comments": 35,
+      "timestamp": "2024-09-11T08:45:00Z"
+    },
+    {
+      "id": 3,
+      "userName": "tech_guru",
+      "content": "Top 5 React tips every developer should know!",
+      "likes": 300,
+      "comments": 50,
+      "timestamp": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "userName": "health_n_fruit",
+      "content": "Avocados are packed with vitamins! Add them to your daily diet.",
+      "likes": 180,
+      "comments": 20,
+      "timestamp": "2024-09-12T14:20:00Z"
+    },
+    {
+      "id": 5,
+      "userName": "diary_dev",
+      "content": "Working on a personal diary app, what features should I add?",
+      "likes": 150,
+      "comments": 25,
+      "timestamp": "2024-09-13T09:10:00Z"
+    },
+    {
+      "id": 6,
+      "userName": "expensetracker101",
+      "content": "Just released my expense tracker app! Track your budget easily.",
+      "likes": 220,
+      "comments": 30,
+      "timestamp": "2024-09-08T07:50:00Z"
+    },
+    {
+      "id": 7,
+      "userName": "fit_life",
+      "content": "Morning workout with a smoothie! #HealthyLiving",
+      "likes": 250,
+      "comments": 40,
+      "timestamp": "2024-09-05T06:00:00Z"
+    },
+    {
+      "id": 8,
+      "userName": "ai_creator",
+      "content": "Created my first AI-generated video. The future is here!",
+      "likes": 300,
+      "comments": 55,
+      "timestamp": "2024-09-02T18:35:00Z"
+    },
+    {
+      "id": 9,
+      "userName": "fruit_lover",
+      "content": "Did you know oranges are a great source of Vitamin C? #HealthFacts",
+      "likes": 180,
+      "comments": 22,
+      "timestamp": "2024-09-07T11:00:00Z"
+    },
+    {
+      "id": 10,
+      "userName": "tech_enthusiast",
+      "content": "Learning to build scalable web apps. Any good resources?",
+      "likes": 190,
+      "comments": 45,
+      "timestamp": "2024-09-06T15:15:00Z"
+    }
+  ]
+  
